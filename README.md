@@ -6,7 +6,7 @@ Computer Science Engineering
 - 🌱 I’m currently learning 
 - ⚡ Fun fact: I know Japanese.
 - Social Presence
-<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([[https://www.linkedin.com/in/jeruslin-vince](https://www.linkedin.com/in/madhavan-p-19246a2bb/)](https://www.linkedin.com/in/madhavan-p-19246a2bb/)) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/Madhavan__vrp)
+<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([[https://www.linkedin.com/in/madhavan-p-19246a2bb/] <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/Madhavan__vrp)
 
 
 ### I code in
