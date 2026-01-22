@@ -6,7 +6,7 @@ Computer Science Engineering
 - 🌱 I’m currently learning 
 - ⚡ Fun fact: I know Japanese.
 - Social Presence
-<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeruslin-vince) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/jeruslin_v)
+<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([[https://www.linkedin.com/in/jeruslin-vince](https://www.linkedin.com/in/madhavan-p-19246a2bb/)](https://www.linkedin.com/in/madhavan-p-19246a2bb/)) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/Madhavan__vrp)
 
 
 ### I code in
@@ -19,4 +19,4 @@ Computer Science Engineering
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/madhavan0823?theme=dark&font=Anek%20Tamil&ext=contest)](https://leetcode.com/madhavan0823/)
 
-[![Jeruslinvince github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JERUSLIN-VINCE&bg_color=121212&color=eeecec&line=9e4c98&point=24b7db&area=true&hide_border=true)](https://github.com/JERUSLIN-VINCE/LeetCode)
+[![Madhavan1302 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Madhavan1302&bg_color=121212&color=eeecec&line=9e4c98&point=24b7db&area=true&hide_border=true)](https://github.com/Madhavan1302/LeetCode)
